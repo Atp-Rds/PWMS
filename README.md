@@ -14,7 +14,7 @@ So, with this new software, I must be able to:
 - Generate a workday “sheets” (with the invested times on), to report the workday of an employee.
 
 ## The Model of the “Projects&Works” domain
-You can see here the class diagram design.
+You can see here the class diagram design. It includes entities, aggregates, associations, and so on.
 
 ## Applications
 I define this four user-level application functions (to assign to a four application layer classes):
