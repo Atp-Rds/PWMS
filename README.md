@@ -16,10 +16,9 @@ So, with this new software, I must be able to:
 ## The Model of the “Projects&Works” domain
 You [can see here the class diagrams](diag) of the domain model 
 Class diagrams of the Domain model:
-- Basic: Classes and Associations
-diag/Class diagram - Domain Model (Basic).jpg
-- Associations and Stereotypes: It includes entities, aggregates, associations (constrained), and so on.
-- Repositories: Repositories of the aggregates.
+- Basic: [Classes and Associations](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Basic).jpg)
+- Associations and Stereotypes: [It includes entities, aggregates, associations (constrained), and so on.](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Stereotypes&Asso).jpg)
+- Repositories: [Repositories of the aggregates.](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Repositories).jpg)
 
 ## Applications
 I define this four user-level application functions (to assign to a four application layer classes):
