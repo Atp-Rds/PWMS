@@ -8,10 +8,10 @@ This is an example to design and implement a real application through DDD (Domai
 I want to develop a software to estimate projects, and break them into tasks. Besides, I should be able to estimate the time to complete these tasks. I should be able to impute works done on a task (and the time invested in doing it), too.
 
 So, with this new software, I must be able to:
-Define a project and break it into tasks.
-Define works done (related to a task).
-Generate “timesheets” (estimated time, invested time...), to budget them, or to invoice them, or to check the time invested in them.
-Generate a workday “sheets” (with the invested times on), to report the workday of an employee.
+- Define a project and break it into tasks.
+- Define works done (related to a task).
+- Generate “timesheets” (estimated time, invested time...), to budget them, or to invoice them, or to check the time invested in them.
+- Generate a workday “sheets” (with the invested times on), to report the workday of an employee.
 
 ## The Model of the “Projects&Works” domain
 You can see here the class diagram design.
