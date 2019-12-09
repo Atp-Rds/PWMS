@@ -14,11 +14,11 @@ So, with this new software, I must be able to:
 - Generate a workday “sheets” (with the invested times on), to report the workday of an employee.
 
 ## The Model of the “Projects&Works” domain
-You [can see here the class diagrams](diag) of the domain model 
+You [can see here the class diagrams](diag) of the system.
 Class diagrams of the Domain model:
 - Basic: [Classes and Associations](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Basic).jpg)
 - Associations and Stereotypes: [It includes entities, aggregates, associations (constrained), and so on.](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Stereotypes&Asso).jpg)
-- Repositories: [Repositories of the aggregates.](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Repositories).jpg)
+
 
 ## Applications
 I define this four user-level application functions (to assign to a four application layer classes):
@@ -28,7 +28,8 @@ I define this four user-level application functions (to assign to a four applica
 - To check the related times of a given project.
 
 ## Repositories
-
+The class diagram of the domain model with the repositories (candidates)
+- Repositories: [Repositories of the aggregates.](diag/Class&#32;diagram&#32;-&#32;Domain&#32;Model&#32;(Repositories).jpg)
 
 ## Dependencies
 mORMot framework by Synopse:
